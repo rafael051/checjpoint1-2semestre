@@ -1,0 +1,35 @@
+.game-description {
+padding: 20px;
+background-color: #0E1015;
+color: white;
+margin-bottom: 20px;
+max-width: 1200px;
+margin-left: 80px;
+margin-right: auto;
+}
+
+.description-header {
+display: flex;
+align-items: center;
+margin-bottom: 10px;
+}
+
+.description-icon {
+width: 20px; 
+height: 20px;
+margin-right: 8px; 
+fill: #D5224E; 
+}
+
+.description-title {
+font-size: 18px;
+font-family: 'Krona One', sans-serif;
+text-transform: uppercase;
+color: white;
+}
+
+.description-text {
+font-size: 18px;
+font-family: 'Karla', sans-serif;
+color: #787B81; 
+}
