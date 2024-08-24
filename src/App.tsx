@@ -1,10 +1,9 @@
-import React from 'react';
-import Header from './components/Header';
+import './App.css'; // Estilos globais
+import Footer from './components/Footer';
 import GameBanner from './components/GameBanner';
 import GameDescription from './components/GameDescription';
+import Header from './components/Header';
 import UserReviews from './components/UserReviews';
-import Footer from './components/Footer';
-import './App.css'; // Estilos globais
 
 function App() {
   return (
